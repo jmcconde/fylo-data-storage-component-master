@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: []
-- Live Site URL: []
+- Solution URL: [https://github.com/jmcconde/fylo-data-storage-component-master]
+- Live Site URL: [https://enchanting-basbousa-dd9256.netlify.app/]
 
 ## My process
 
@@ -42,7 +42,9 @@ Users should be able to:
 
 ### What I learned
 
-
+Practiced how to apply a background image.
+Improved my flexbox skills.
+Improved my skills on positioning elements with position: absolute.
 
 ## Author
 
