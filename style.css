@@ -249,7 +249,7 @@ body {
     .triangle {
         position: absolute;
         top: -10%;
-        left: 83.4%;
+        left: 83.2%;
         z-index: 1000;
         transform: scale(.2);
         border-top: 50px solid transparent;
